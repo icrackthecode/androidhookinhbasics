@@ -14,5 +14,6 @@ else cd hook/jni
  ## Running (No need to be root)
  
  adb shell /data/local/tmp/target
+ 
  adb shell /data/local/tmp/inject
  
